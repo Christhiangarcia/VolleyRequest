@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VolleyRequest</string>
+    <string-array name="categorias_array">
+        <item>animals</item>
+        <item>architecture</item>
+        <item>nature</item>
+        <item>people</item>
+        <item>tech</item>
+    </string-array>
+
+</resources>
